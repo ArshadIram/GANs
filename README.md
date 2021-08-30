@@ -5,6 +5,7 @@ Source: https://www.youtube.com/watch?v=OljTVUVzPpM&t=1292s
 There are many GAN variants, this repo contains all the relevant GANs. This repo contains the implementation source code of various variants of GAN  with different open datasets. 
 
 **GAN-** Generative Adversrial Network 
+To visualize the fake and real images and loss on tensorboard run this command on terminal: tensorboard --logdir=GANs/runs/GAN_MNIST/
 
 **DCGAN-** Deep Convolutional Generative Adversrial Network 
 
