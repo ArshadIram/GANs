@@ -10,7 +10,7 @@ There are many GAN variants, this repo contains all the relevant GANs. This repo
 
 **CGAN-** COnditional Generative Adversrial Network 
 
-**CycleGAN**
+**CycleGAN-** Cycle Generative Adversrial Network 
 
 **CoGAN-** Coupled Generative Adversrial Network 
 
